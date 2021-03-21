@@ -1,0 +1,17 @@
+package io.github.agentrkid.nqueue.api.object;
+
+public enum QueueActions {
+    QUEUE_PAUSE_STATE,
+    QUEUE_STATE,
+    PLAYER_SEND,
+    PLAYER_ADD,
+    PLAYER_REMOVE,
+    OFFLINE_PLAYER_REMOVE,
+    PLAYER_JOIN_PROXY,
+    PLAYER_LEAVE_PROXY,
+    QUEUE_BROADCAST,
+    QUEUE_UPDATE_DATA,
+    CONFIRM_PLAYER_SEND,
+    CONFIRM_PLAYER_ADD,
+    CONFIRM_PLAYER_REMOVE
+}

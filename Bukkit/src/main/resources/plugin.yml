@@ -1,0 +1,4 @@
+name: nQueue
+main: io.github.agentrkid.nqueue.bukkit.nQueueBukkit
+version: 1.0
+author: rkid
