@@ -1,4 +1,10 @@
 ## nQueue
+
+## Archived
+This plugin has been archived, i created this as an open source plugin but i lost motivation after uploading it and having other things to work on, its code is alright, not the best alot of things could be cleaned up, and it could most definally use a better redis system.
+
+### Info
+
 nQueue is a open sourced multi-proxy queue system allowing servers to have hubs on hubs without the issue of unordered queues
 
 ### Features
